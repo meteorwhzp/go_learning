@@ -5,7 +5,22 @@ import (
 	"time"
 )
 
+/*
+#include <stdio.h>
+void printint(int v) {
+	printf("printint: %d\n", v);
+}
+*/
+
+import "C"
+
+
 func main() {
+	//v := 42
+	//c.printint(C.int(v))
+}
+
+func main1() {
 	fmt.Println("hello world")
 	var count int
 	ch1 := make(chan struct{}, 1)
