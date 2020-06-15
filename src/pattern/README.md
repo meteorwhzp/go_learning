@@ -21,3 +21,6 @@
 * Strategy.go : 策略模式(X)
 * Template.go : 模板模式(X)
 * Visitor.go : 访问者模式(X)
+
+####参考wiki
+https://www.jianshu.com/p/ea4d4d97b0c9
