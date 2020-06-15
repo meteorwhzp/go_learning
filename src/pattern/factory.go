@@ -1,3 +1,6 @@
+/*
+go语言实现设计模型
+ */
 package pattern
 
 import "fmt"
